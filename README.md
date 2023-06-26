@@ -80,7 +80,7 @@ No fim, caso você não acerte nenhuma vez, ele vai imprimir qual era o número 
 
 Depois que o programinha estiver funcionando, tente usar um número randômico em vez de um número pré-definido.
 
-### EXTRA
+### (EXTRA)
 Dê uma olhada nesse site para aprender mais sobre estruturas de repetição.
 
 Para fazer a própria máquina escolher sozinha o número a ser adivinhado, você pode utilizar algo chamado Math.random().
