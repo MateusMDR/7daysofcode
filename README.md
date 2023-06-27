@@ -112,3 +112,13 @@ Lista de compras:
     Congelados:
     Doces: chiclete e bala de ursinho
 ```
+
+## Day 6
+
+Você deverá criar a opção de remover algum item da lista, que será exibida junto à pergunta de "você deseja adicionar uma comida na lista de compras"?
+
+A partir daí, caso a pessoa escolha essa opção, o programa irá imprimir os elementos presentes na lista atual, e a pessoa deverá escrever qual deles deseja remover.
+
+Depois disso, o programa irá remover o elemento da lista e imprimir a confirmação de que o item realmente não está mais lá.
+
+Por fim, ele voltará para o ciclo inicial de perguntas.
