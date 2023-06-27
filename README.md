@@ -1,6 +1,6 @@
 # `#7DaysOfCode`
 
-O 7DaysOfCode é um projeto da Alura para os estudantes de tecnologia praticarem o que aprendem nas formações. Durante 1 semana o estudante receberá desafios por email sobre o assunto que ele está estudando. Abaixo separei os desafios de acordo com o dia em que recebi cada, e nas *branches* do repositório estão as minhas respostas.  
+O 7DaysOfCode é um projeto da Alura para os estudantes de tecnologia praticarem o que aprendem nas formações. Durante 1 semana o estudante receberá desafios por email sobre o assunto que ele está estudando. Abaixo separei os desafios de acordo com o dia em que recebi cada, e nos *folders* do repositório estão as minhas respostas.  
   
 ## Day 1  
   
