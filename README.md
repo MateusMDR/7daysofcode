@@ -122,3 +122,11 @@ A partir daí, caso a pessoa escolha essa opção, o programa irá imprimir os e
 Depois disso, o programa irá remover o elemento da lista e imprimir a confirmação de que o item realmente não está mais lá.
 
 Por fim, ele voltará para o ciclo inicial de perguntas.
+
+## Day 7
+
+Neste último desafio, a minha proposta para você é: crie a sua própria calculadora, porém com um detalhe muito importante: cada operação deverá ser uma função diferente no seu código.
+
+Primeiramente, a pessoa deverá escolher uma opção de operação impressa pelo programa na tela.
+
+Depois, ela deverá inserir os dois valores que deseja utilizar, e o programa imprimirá o resultado da operação em questão.
